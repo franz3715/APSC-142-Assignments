@@ -1,0 +1,3 @@
+C:/Users/Francesca Adaobi/CLionProjects/apsc142assign4/cmake-build-debug/CMakeFiles/apsc142assign4.dir
+C:/Users/Francesca Adaobi/CLionProjects/apsc142assign4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Francesca Adaobi/CLionProjects/apsc142assign4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
